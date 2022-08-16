@@ -116,3 +116,9 @@ history -a
 ./countdown.sh 5
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help if
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
