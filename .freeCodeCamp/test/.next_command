@@ -122,3 +122,12 @@ history -a
 help
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help if
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help experession
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help [[ experession ]]
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
