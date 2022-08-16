@@ -473,3 +473,9 @@ history -a
 help until
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help let
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
