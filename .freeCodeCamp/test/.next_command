@@ -221,3 +221,6 @@ history -a
 help
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help >> help.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
