@@ -186,3 +186,6 @@ ls --color=auto -y
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help test >> help.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
