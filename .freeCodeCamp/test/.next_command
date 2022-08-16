@@ -143,3 +143,9 @@ history -a
 ./countdown.sh 5
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh 5
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
