@@ -660,3 +660,30 @@ git remote remove coderoad
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "learning bash course"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd learn-bash-scripting-by-building-five-programs/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote remove origin
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
