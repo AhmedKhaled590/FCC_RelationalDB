@@ -126,3 +126,61 @@ history -a
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+mkdir learnSQLByBuildingStudentDB:P1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv students.sql learnSQLByBuildingStudentDB:P1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv courses.csv students.csv learnSQLByBuildingStudentDB:P1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv insert_data.sh learnSQLByBuildingStudentDB:P1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv pg_dump.txt learnSQLByBuildingStudentDB:P1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv learn-sql-by-building-a-student-database-part-1/ learnSQLByBuildingStudentDB\:P1/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git reomte add origin https://github.com/AhmedKhaled590/FCC_RelationalDB.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/AhmedKhaled590/FCC_RelationalDB.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote remove coderoad
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd learnSQLByBuildingStudentDB\:P1/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd learnSQLByBuildingStudentDB\:P1/learn-sql-by-building-a-student-database-part-1/
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
