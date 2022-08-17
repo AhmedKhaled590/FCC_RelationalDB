@@ -616,3 +616,47 @@ type ./five.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 exit
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd project
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mkdir learningBash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mv bingo.sh countdown.sh five.sh fortune.sh questionnaire.sh learningBash
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+rm help.txt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/AhmedKhaled590/FCC_RelationalDB.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git pull origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git pull origin master --allow-unrelated-histories
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote remove coderoad
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
